@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="session5.css" type="text/css"?>
+<session5>
+
+ <library>
+    <films>
+        <film>
+            <name>Ghost rider</name>
+            <sound>Yes</sound>
+                <year>2007</year>
+            <cast>Nicolas cage and others.</cast>
+        </film>
+    </films>
+ </library>
+
+ <CD>
+    <audio>
+        <names id="style">2007 hits</names>
+    </audio>
+ </CD>
+
+ <car>
+    <vehicle>
+        <manufacturer>BMW</manufacturer>
+        <model>M3</model>
+        <color>Metallic silver</color>
+        <prise>40,000</prise>
+        <location>Liverpool</location>
+    </vehicle>
+ </car>
+
+ <cars>
+     <vehicle>
+        <manufacturer>BMW</manufacturer>
+        <model>M3</model>
+        <color>Metallic silver</color>
+        <prise>40,000</prise>
+        <location>Liverpool</location>
+    </vehicle>
+     <vehicle>
+        <manufacturer>Toyota</manufacturer>
+        <model>INNOVA</model>
+        <color>gray</color>
+        <prise>38,000</prise>
+        <location>California</location>
+    </vehicle>
+ </cars>
+
+</session5> 

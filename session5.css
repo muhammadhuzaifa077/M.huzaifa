@@ -1,0 +1,60 @@
+name{
+    border: 2px solid black;
+    margin: 10px;
+}
+cast{
+    color: aqua;
+}
+
+
+
+
+#style{
+    background-color: lightgreen;
+}
+
+
+
+
+car{
+    background-color: orange;
+    color: white;
+}
+prise{
+    color: black;
+    border: thick inset gray;
+    padding: 2 5 8 10;
+    position: absolute; top: 40px; left: 20px;
+}
+color{
+    font-family: 'Courier New', Courier, monospace;
+    border: thick groove aqua;
+    padding: 2 5 8;
+}
+location{
+    font-size: 80%;
+    font-style: italic;
+    position: relative; top: 20px; left: 20px;
+    color: black;
+}
+manufacturer{
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 50px;
+    background-color: chocolate;
+    border: thick dashed magenta;
+    padding: 2;
+}
+model{
+    border: thick solid olive;
+    padding: 2 5;
+}
+
+
+
+
+prise{
+    display: block;
+    text-align: center;
+    text-indent:20px;
+}
